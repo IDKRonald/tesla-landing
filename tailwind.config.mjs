@@ -11,7 +11,10 @@ export default {
 		},
 		minWidth:{
 			'50':'12.5rem'
-		}
+		},
+		animation: {
+			'spin-slow': 'spin 3s linear infinite',
+		  }
 
 	},
 	plugins: [],
